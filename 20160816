@@ -1,0 +1,45 @@
+- ObjectDecttion
+	- http://closure11.com/rcnn-fast-rcnn-faster-rcnn的一些事/
+	- http://www.hust.site/深度学习/2016-05-11/259.html
+	- http://blog.csdn.net/hjimce/article/details/50187029
+	- https://arxiv.org/abs/1411.5928
+	- https://arxiv.org/abs/1504.08083
+	- https://arxiv.org/abs/1506.01497
+	- https://arxiv.org/abs/1512.02325
+	- https://github.com/rbgirshick/py-faster-rcnn/issues/62
+	- https://github.com/xingwangsfu/caffe-yolo
+	- https://github.com/Lab41/attalos/wiki/SSD
+	- https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
+	- https://www.zhihu.com/question/49455386
+	- https://github.com/zhangqianhui/CnnForAndroid
+	- https://github.com/jay-mahadeokar/pynetbuilder
+	- http://blog.csdn.net/surgewong/article/details/51871281
+	- http://blog.csdn.net/samylee/article/details/51822832
+	- http://www.cnblogs.com/objectDetect/p/5780006.html
+
+- adversarial
+	- https://www.wired.com/2016/07/fool-ai-seeing-something-isnt
+	- https://arxiv.org/abs/1602.02697
+	- https://arxiv.org/abs/1607.02533
+	- https://arxiv.org/abs/1312.6199
+	- http://www.infoq.com/cn/news/2015/07/adversarial-examples
+	- http://www.lancezhange.com/2015/11/19/adversarial-samples/
+	- https://mp.weixin.qq.com/s?__biz=MzAwMjM3MTc5OA==&mid=404641466&idx=1&sn=8a71fd13f264fa704f58be1f677d7c71
+	- https://github.com/carpedm20/DCGAN-tensorflow
+	- http://www.infoq.com/cn/news/2015/07/adversarial-examples
+	- http://www.lancezhange.com/2015/11/19/adversarial-samples/
+	- http://www.voidcn.com/blog/Solomon1558/article/p-6201704.html
+	- http://blog.csdn.net/solomon1558/article/details/52338052
+	- http://arxiv.org/abs/1608.01230
+	- https://github.com/zeromq/libzmq/issues/1588
+	- https://github.com/facebook/eyescream
+	- https://arxiv.org/abs/1610.02454
+
+- VAE
+	- http://weibo.com/p/1001603911191658415704
+	- https://arxiv.org/abs/1606.05908
+	- http://keras-cn.readthedocs.io/en/latest/blog/autoencoder/
+	- https://jmetzen.github.io/2015-11-27/vae.html
+	- http://arxiv.org/abs/1609.02200
+	- https://github.com/timsainb/Tensorflow-MultiGPU-VAE-GAN
+	- http://arxiv.org/abs/1512.09300
